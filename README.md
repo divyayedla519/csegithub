@@ -29,18 +29,11 @@ B.bye
 
 #INSERT web link
 [click here to vignan] (http://www.vignaniit.edu.in/)
-# insert video link
+## how to insert table
+## my profile
 
-
-
-
-
-
-
-
-
-
-
+|NAME|MOBILE|EMAIL|
+|----|------|-----|
 
 
 
